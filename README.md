@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**My name is Sudhanshu Pal. I am final year undergraduate student at Institute of Engineering and Technology(IET) Lucknow.**
+**My name is Sudhanshu Pal. I am a final year undergraduate student at Institute of Engineering and Technology(IET) Lucknow.**
 **I am pursuing Bachelor of technology in Electronics and Instrumetation Engineering**
 
 **I am very interested in Problem Solving and Software Development**
