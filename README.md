@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+**My name is Sudhanshu Pal. I am final year undergraduate student at Institute of Engineering and Technology(IET) Lucknow.**
+**I am pursuing Bachelor of technology in Electronics and Instrumetation Engineering**
+
+**I am very interested in Problem Solving and Software Development**
+
+**My Leetcode Profile: https://leetcode.com/sudhanshu_27/ ** 
+
+**📫 How to reach me: palsudhanshu177@gmail.com **
 <!--
 **sudhanshu27/sudhanshu27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
