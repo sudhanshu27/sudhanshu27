@@ -5,9 +5,9 @@
 
 **I am very interested in Problem Solving and Software Development**
 
-**My Leetcode Profile: https://leetcode.com/sudhanshu_27/ ** 
+**My Leetcode Profile: ** https://leetcode.com/sudhanshu_27/
 
-**📫 How to reach me: palsudhanshu177@gmail.com **
+**📫 How to reach me: ** palsudhanshu177@gmail.com
 <!--
 **sudhanshu27/sudhanshu27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
