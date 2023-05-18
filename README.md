@@ -6,6 +6,7 @@
 **I am very interested in Problem Solving and Software Development**
 
 **My Leetcode Profile:** https://leetcode.com/sudhanshu_27/
+**My LinkedIn Profile:** https://www.linkedin.com/in/sudhanshu-pal-2bb3291aa
 
 **📫 How to reach me:** palsudhanshu177@gmail.com
 <!--
