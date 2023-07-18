@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-**My name is Sudhanshu Pal. I am a final year undergraduate student at Institute of Engineering and Technology(IET) Lucknow.**
-**I am pursuing Bachelor of technology in Electronics and Instrumetation Engineering**
+**My name is Sudhanshu Pal. I have recently completed my undergraduate studies in Electronics and Instrumentation Engineering from the Institute of Engineering and Technology (IET) Lucknow in June 2023.**
 
 **I am very interested in Problem Solving and Software Development**
+
+**As a fresh graduate, I am actively seeking opportunities to kickstart my career and contribute my skills and knowledge as a Software Engineer**
 
 **My Leetcode Profile:** https://leetcode.com/sudhanshu_27/
 
