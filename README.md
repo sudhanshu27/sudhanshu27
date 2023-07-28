@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**My name is Sudhanshu Pal. I have recently completed my undergraduate studies in Electronics and Instrumentation Engineering from the Institute of Engineering and Technology (IET) Lucknow in June 2023.**
+**My name is Sudhanshu Pal. I recently graduated in Electronics and Instrumentation Engineering from the Institute of Engineering and Technology (IET) Lucknow in June 2023.**
 
 **I am very interested in Problem Solving and Software Development**
 
