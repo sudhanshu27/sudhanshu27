@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-**My name is Sudhanshu Pal. I recently graduated in 2023. I completed my bachelor's in Electronics and Instrumentation Engineering from the Institute of Engineering and Technology(IET) Lucknow**
+**My name is Sudhanshu Pal. I recently graduated in 2023. I completed my bachelor's in Electronics and Instrumentation Engineering from the Institute of Engineering and Technology(IET) Lucknow.**
 
 **I enjoy solving Data Structures, Algorithmic Problems, and Software Development.**
 
 **Technologies I play around with: HTML, CSS , JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL, PostgreSQL, SQL and C++.**
 
-**As a fresh graduate, I am actively seeking opportunities to kickstart my career and contribute my skills and knowledge as a Software Engineer**
+**As a fresh graduate, I am actively seeking opportunities to kickstart my career and contribute my skills and knowledge as a Software Engineer.**
 
 **📫 How to reach me:** palsudhanshu177@gmail.com
 <!--
