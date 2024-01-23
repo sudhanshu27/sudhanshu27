@@ -8,7 +8,8 @@
 
 **As a fresh graduate, I am actively seeking opportunities to kickstart my career and contribute my skills and knowledge as a Software Engineer.**
 
-**📫 How to reach me:** palsudhanshu177@gmail.com
+**📫 How to reach me:** Email: palsudhanshu177@gmail.com
+                        Twitter: https://twitter.com/Sudhanshu_27_
 <!--
 **sudhanshu27/sudhanshu27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
