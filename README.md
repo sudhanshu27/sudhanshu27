@@ -8,7 +8,7 @@
 
 **As a fresh graduate, I am actively seeking opportunities to kickstart my career and contribute my skills and knowledge as a Software Engineer.**
 
-***Connect with me on Twitter:*** https://x.com/Sudhanshu_27_?t=m1MRqU3LC2qlo2Fe4e-fRg&s=09  
+***Connect with me on Twitter:*** https://twitter.com/Sudhanshu_27_  
   
 **📫 How to reach me:** Email: palsudhanshu177@gmail.com  
 <!--
