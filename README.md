@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**My name is Sudhanshu Pal. I recently graduated in 2023. I completed my bachelor's in Electronics and Instrumentation Engineering.**
+**My name is Sudhanshu Pal. I graduated in 2023. I completed my bachelor's in Electronics and Instrumentation Engineering.**
 
 **I enjoy solving Data Structures and Algorithmic Problems.**
 
