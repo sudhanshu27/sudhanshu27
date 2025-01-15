@@ -6,7 +6,7 @@
 
 **Technologies I play around with: HTML, CSS , JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL, PostgreSQL, SQL and C++.**
 
-**As a fresh graduate, I am actively seeking opportunities to kickstart my career and contribute my skills and knowledge as a Software Engineer.**
+**I am actively seeking opportunities to kickstart my career and contribute my skills and knowledge as a Software Engineer.**
 
 ***Connect with me on [Twitter](https://twitter.com/Sudhanshu_27_)***  
   
